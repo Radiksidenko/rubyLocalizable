@@ -1,0 +1,34 @@
+ /*
+  Localizable.strings
+
+  Created by Radomyr Sidenko on 09/07/2019.
+*/
+
+// MARK: Label
+"label.label1" = "label1";
+"label.label2" = "label2";
+"label.label3" = "label3";
+"label.label4" = "label4";
+
+// MARK: Message
+"message.message1" = "message1";
+"message.message2" = "message2";
+"message.message3" = "message3";
+"message.message4" = "message4";
+
+// MARK: Button
+"button.button1" = "button1";
+"button.button2" = "button2";
+"button.button3" = "button3";
+"button.button4" = "button4";
+
+// MARK: Alert
+"alert.alert1" = "alert1";
+"alert.alert2" = "alert2";
+"alert.alert3" = "alert3";
+"alert.alert4" = "alert4";
+
+// MARK: App
+"app.app1" = "app1";
+"app.app2" = "app2";
+"app.app3" = "app3";
